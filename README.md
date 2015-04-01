@@ -10,6 +10,7 @@ Copy this code on the Browser Console and click Enter or add the file [cssdebugg
 
 2) Add with the tag < script ></ script > the Javascript code into page we want the debug (into tag < body ></ body >).
 
+IMPORTANT : jQuery or another libraries isn't required!
 
 #---------------------
 
@@ -24,3 +25,5 @@ Copia questo codice nella Console del Browser e clicca Invio. Un altro metodo è
 1) Apri la Console del Browser. Copia il codice Javascript di CSSDebugger e incollalo nella console. Premi invio. Ora tutti gli elementi sono delineati con un outline di un colore casuale. Questo ti aiuterà a capire le dimensioni e la posizione nella pagina di tutti gli elementi che danno problemi.
 
 2) Aggiungere il codice Javascript tramite i tag < script ></ script > direttamente nella pagina (dentro i tag < body ></ body >).
+
+IMPORTANTE : Non è richiesta jQuery o altre librerie.

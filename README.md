@@ -1,5 +1,5 @@
 ![alt tag](http://biuni.altervista.org/guide/debugger/cssdebugger2.PNG)
-->[LIVE DEMO](http://biuni.it/cssdebugger/)<-
+<p align="center">[LIVE DEMO](http://biuni.it/cssdebugger/)</p>
 
 # CSSDebugger
 Simple JavaScript for debugging the CSS code.

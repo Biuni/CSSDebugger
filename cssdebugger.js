@@ -1,7 +1,7 @@
 /*
 * Create by Gianluca Bonifazi
 * www.biuni.it
-* Copyright - MIT LICENSE
+* Copyright (c) 2015 Biuni
 */
 
 function getRandomColor() {

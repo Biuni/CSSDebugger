@@ -10,7 +10,7 @@ Copy this code on the Browser Console and click Enter or add the file [cssdebugg
 2) Add with the tag < script ></ script > the Javascript code into page we want the debug.
 
 
-#--ITALIAN VERSION--
+#-----------ITALIAN VERSION----------
 
 
 #CSSDebugger
